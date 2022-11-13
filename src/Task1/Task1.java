@@ -1,3 +1,5 @@
+package Task1;
+
 public class Task1 {
     /*
     Метод main является методом входа в приложение Java,
